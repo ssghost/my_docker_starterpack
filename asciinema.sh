@@ -1,0 +1,1 @@
+docker run --name myasciinema -it -d -v "${HOME}/.config/asciinema:/root/.config/asciinema" --entrypoint=/bin/bash ghcr.io/asciinema/asciinema

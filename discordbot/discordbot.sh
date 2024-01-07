@@ -1,0 +1,1 @@
+docker run -dit $NAME/discord-bot:latest

@@ -1,0 +1,1 @@
+docker run -dit $NAME/my_kali_full:latest
