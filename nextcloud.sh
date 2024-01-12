@@ -1,4 +1,4 @@
-docker run -d \
+docker run -d -p 3096:80\
         -v nextcloud:/var/www/html \
         -v apps:/var/www/html/custom_apps \
         -v config:/var/www/html/config \
