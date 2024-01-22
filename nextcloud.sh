@@ -4,5 +4,5 @@ docker run -d -p 3096:80\
         -v config:/var/www/html/config \
         -v data:/var/www/html/data \
         nextcloud
-#chowm www-data config.php
+#chown www-data config.php
 #chgrp www-data config.php
