@@ -1,0 +1,1 @@
+openssl s_client -showcerts -connect localhost:8090 -servername localhost 
