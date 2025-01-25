@@ -1,0 +1,1 @@
+docker run -d -p 11234:11434 --name ollama-rocm bergutman/ollama-rocm:latest
